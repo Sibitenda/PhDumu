@@ -1,0 +1,4 @@
+credentials/
+cloud_fog/
+__pycache__/
+*.pkl
